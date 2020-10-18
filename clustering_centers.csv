@@ -1,0 +1,6 @@
+,avg_new_deaths,total_cases_per_million,total_deaths_per_million,population_density,avg_new_cases,hospital_beds_per_100k
+Cluster 0,0.0,139.0,2.0,60.0,21.0,2.0
+Cluster 1,3.0,1423.0,32.0,103.0,160.0,3.0
+Cluster 2,1.0,39.0,1.0,48.0,0.0,3.0
+Cluster 3,68.0,2168.0,96.0,65.0,1613.0,3.0
+Cluster 4,0.0,1292.0,32.0,179.0,1.0,3.0

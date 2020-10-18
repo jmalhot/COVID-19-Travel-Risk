@@ -1,0 +1,6 @@
+nest-*.json
+*.csv
+covid_env
+!clustering_centers.csv
+!clustering_mean.csv
+Oxford*
